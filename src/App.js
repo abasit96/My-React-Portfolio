@@ -34,7 +34,6 @@ function App() {
   return (
     <>
       <Header setCurrentPage={setCurrentPage}/>
-      <button onClick={()=> setCurrentPage("Contact")}>Click</button>
       <main>
        {
         renderPage()
