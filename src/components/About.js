@@ -39,7 +39,7 @@ function About(props) {
             </p>
 
             <p className="text-center">
-              Thank you for considering my profile.
+              Thank you for considering my profile!
             </p>
           </div>
         </Col>
