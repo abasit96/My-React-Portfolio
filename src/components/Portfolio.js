@@ -25,11 +25,11 @@ function Portfolio(props) {
         description: "An Express.js application Note Taker application to help users add notes for their daily schedule."
       },
       {
-        title: "Javascript Knowledge Quic",
-        image: "https://raw.githubusercontent.com/abasit96/Javascript-Knowledge-Quiz/main/Assets/Screenshot%202023-06-05%20at%205.17.25%20PM.png",
-        github: "https://github.com/abasit96/Javascript-Knowledge-Quiz",
-        deployed: "https://abasit96.github.io/Javascript-Knowledge-Quiz/",
-        description: "A timed coding quiz with multiple-choice questions."
+        title: "Tech Trove -eCommerce",
+        image: "/src/components/images/Screenshot 2023-06-11 at 9.42.30 AM.png", 
+        github: "/Users/bootcamp/bootcamp/My-React-Portfolio/src/components/images/Screenshot 2023-06-11 at 9.42.30 AM.png",
+        deployed: "https://tech-trove-ecommerce.herokuapp.com/",
+        description: "Tech Trove is an e-commerce website catering to all tech users who need to fulfill their technological needs with quality products at a reasonable price. "
       },
       {
         title: "Password Generator",
