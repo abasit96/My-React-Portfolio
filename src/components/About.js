@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import profile from "/Users/bootcamp/bootcamp/My-React-Portfolio/my-react-portfolio/src/components/images/Profile.jpg";
+import profile from "./images/Profile.jpg";
 
 function About(props) {
   return (
