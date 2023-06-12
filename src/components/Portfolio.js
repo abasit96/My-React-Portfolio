@@ -26,7 +26,7 @@ function Portfolio(props) {
       },
       {
         title: "Tech Trove -eCommerce",
-        image: "/src/components/images/Screenshot 2023-06-11 at 9.42.30 AM.png", 
+        image: "https://raw.githubusercontent.com/abasit96/Tech-Trove-eCommerce/main/Screenshots/Screenshot%201.png", 
         github: "/Users/bootcamp/bootcamp/My-React-Portfolio/src/components/images/Screenshot 2023-06-11 at 9.42.30 AM.png",
         deployed: "https://tech-trove-ecommerce.herokuapp.com/",
         description: "Tech Trove is an e-commerce website catering to all tech users who need to fulfill their technological needs with quality products at a reasonable price. "
